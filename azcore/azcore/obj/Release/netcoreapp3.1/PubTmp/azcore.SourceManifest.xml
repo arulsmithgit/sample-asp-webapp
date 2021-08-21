@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\MyRepo\azcore\azcore\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+</sitemanifest>
